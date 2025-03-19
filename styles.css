@@ -1,0 +1,26 @@
+body {
+    background-color:lemonchiffon
+}
+
+h1 {
+    font-family: "Brush Script MT", "Lucida Handwriting", serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: green;
+    color: white;
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+
+.recipes {
+    text-align: center;
+}
+
+.list {
+    font-family: "Copperplate", Helvetica, sans-serif;
+    color: green;
+    font-size: 20px;
+    margin-top: 40px;
+    list-style: none;
+}
