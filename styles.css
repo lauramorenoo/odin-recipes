@@ -2,7 +2,7 @@ body {
     background-color:lemonchiffon
 }
 
-h1 {
+.home-page h1 {
     font-family: "Brush Script MT", "Lucida Handwriting", serif;
     text-align: center;
     font-size: 50px;
@@ -13,7 +13,7 @@ h1 {
     margin: auto;
 }
 
-.recipes {
+.recipes, .meals h1 {
     text-align: center;
 }
 
