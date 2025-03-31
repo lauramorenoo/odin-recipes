@@ -1,26 +1,48 @@
 body {
-    background-color:lemonchiffon
+    background-color: lemonchiffon;
 }
 
 .home-page h1 {
     font-family: "Brush Script MT", "Lucida Handwriting", serif;
     text-align: center;
     font-size: 50px;
-    background-color: green;
-    color: white;
+    color: black;
     width: 500px;
     height: auto;
     margin: auto;
 }
 
-.recipes, .meals h1 {
+.recipes, h1 {
     text-align: center;
+}
+
+.center, .steps {
+    max-width: 570px;
+    text-align: center;
+    padding-left: 300px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: auto;
 }
 
 .list {
     font-family: "Copperplate", Helvetica, sans-serif;
     color: green;
     font-size: 20px;
-    margin-top: 40px;
+    margin-top: 30px;
     list-style: none;
+}
+
+.list-recipe {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    padding: 10px;
 }
